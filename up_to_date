@@ -1,0 +1,6 @@
+touch up_to_date
+vim up_to_date
+i write 
+esc
+:w save 
+:q
